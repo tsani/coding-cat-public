@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for f in * ; do
+    [ ! -d "$f" ] && continue # problems are directories, so skip non-dirs
+    jq -r .name "$f/meta.json"
+done > enabled-problems
