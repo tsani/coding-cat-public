@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Deletes all build artifacts
+
+rm -f problems.json
+rm */problem.json
