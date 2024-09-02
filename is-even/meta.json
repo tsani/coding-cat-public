@@ -1,22 +1,7 @@
-[
-  {
-    "input": [4],
-    "output": true
-  },
-  {
-    "input": [7],
-    "output": false
-  },
-  {
-    "input": [0],
-    "output": true
-  },
-  {
-    "input": [-2],
-    "output": true
-  },
-  {
-    "input": [13],
-    "output": false
-  }
-]
+{
+  "title": "Is Even",
+  "name": "is-even",
+  "difficulty": "easy",
+  "author": "ChatGPT",
+  "category": "fundamentals"
+}
