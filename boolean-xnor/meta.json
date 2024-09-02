@@ -1,6 +1,6 @@
 {
   "title": "Boolean XNOR",
-  "name": "boolean-xnor",
+  "name": "boolean_xnor",
   "difficulty": "easy",
   "author": "ChatGPT",
   "category": "logic"

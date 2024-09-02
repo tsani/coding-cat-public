@@ -1,8 +1,7 @@
 {
-    "title" : "Eat outside?",
-    "name": "eat_outside",
-    "difficulty": 1,
-    "author": "Eric Mayhew",
-    "category": "Logic-1"
-
+  "title": "Eat outside?",
+  "name": "eat_outside",
+  "difficulty": 1,
+  "author": "Eric Mayhew",
+  "category": "Logic-1"
 }

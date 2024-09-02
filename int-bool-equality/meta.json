@@ -1,6 +1,6 @@
 {
   "title": "Int Bool Equality",
-  "name": "int-bool-equality",
+  "name": "int_bool_equality",
   "difficulty": "easy",
   "author": "ChatGPT",
   "category": "logic"

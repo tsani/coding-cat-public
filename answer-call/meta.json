@@ -1,6 +1,6 @@
 {
   "title": "Answer Cell",
-  "name": "answer-cell",
+  "name": "answer_cell",
   "difficulty": "easy",
   "author": "ChatGPT",
   "category": "boolean"
