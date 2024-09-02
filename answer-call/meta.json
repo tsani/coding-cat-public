@@ -1,7 +1,7 @@
 {
   "title": "Answer Cell",
   "name": "answer_cell",
-  "difficulty": "easy",
+  "difficulty": "hard",
   "author": "ChatGPT",
-  "category": "boolean"
+  "category": "logic"
 }
