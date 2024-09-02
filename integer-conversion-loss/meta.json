@@ -1,0 +1,22 @@
+[
+  {
+    "input": [3.0],
+    "output": false
+  },
+  {
+    "input": [5.5],
+    "output": true
+  },
+  {
+    "input": [100.0000],
+    "output": false
+  },
+  {
+    "input": [0.999],
+    "output": true
+  },
+  {
+    "input": [42.01],
+    "output": true
+  }
+]

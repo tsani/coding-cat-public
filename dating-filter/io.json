@@ -1,0 +1,22 @@
+[
+  {
+    "input": [6.0, "blue", "finance"],
+    "output": true
+  },
+  {
+    "input": [5.8, "blue", "finance"],
+    "output": false
+  },
+  {
+    "input": [6.0, "green", "finance"],
+    "output": false
+  },
+  {
+    "input": [6.0, "blue", "engineer"],
+    "output": false
+  },
+  {
+    "input": [6.0, "blue", "finance"],
+    "output": true
+  }
+]

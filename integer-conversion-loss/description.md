@@ -1,0 +1,1 @@
+Write a function `integer_conversion_loss(n: float) -> bool` that takes a floating-point number `n` as input. The function should return `True` if converting `n` to an integer would result in data loss (i.e., if `n` has a non-zero decimal part), and `False` otherwise.

@@ -1,0 +1,30 @@
+[
+  {
+    "input": [5, 12],
+    "output": true
+  },
+  {
+    "input": [8, 15],
+    "output": false
+  },
+  {
+    "input": [3, 7],
+    "output": false
+  },
+  {
+    "input": [2, 5],
+    "output": true
+  },
+  {
+    "input": [20, 8],
+    "output": true
+  },
+  {
+    "input": [10, 21],
+    "output": true
+  },
+  {
+    "input": [7, 14],
+    "output": false
+  }
+]

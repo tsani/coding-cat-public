@@ -1,0 +1,1 @@
+Write a function `extract_decimal(f: float) -> float` that takes a floating-point number `f` as input and returns only the decimal part of `f` as a floating-point number. For example, if the input is `12.345`, the output should be `0.345`.
