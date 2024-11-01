@@ -9,7 +9,7 @@
   },
   {
       "input": ["hELLo WOrld"],
-      "output": "hELLo WOrld"
+      "output": "hELLO WOrld"
   },
   {
       "input": [""],
