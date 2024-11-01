@@ -5,7 +5,7 @@
   },
   {
       "input": [["Armin", "Mikasa", "Eren", "Gabi"]],
-      "output": ["Mikasa", "Armin", "Gabi"]
+      "output": ["Armin", "Mikasa", "Gabi"]
   },
   {
       "input": [["Toop", "Bop", "Wham", "Bleep"]],
