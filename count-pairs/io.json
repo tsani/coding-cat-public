@@ -1,0 +1,18 @@
+[
+  {
+    "input": ["python", "p", "x"],
+    "output": 0
+  },
+  {
+    "input": ["deeded", "e", "d"],
+    "output": 4
+  },
+  {
+    "input": ["aaaaaa", "a", "a"],
+    "output": 0
+  },
+  {
+    "input": ["xyxyxyxy", "x", "y"],
+    "output": 7
+  }
+]
