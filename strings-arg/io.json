@@ -1,0 +1,14 @@
+[
+  {
+      "input": [["Ginny", "Georgia", "Max"]],
+      "output": ["Georgia", "Max"]
+  },
+  {
+      "input": [["Armin", "Mikasa", "Eren", "Gabi"]],
+      "output": ["Mikasa", "Armin", "Gabi"]
+  },
+  {
+      "input": [["Toop", "Bop", "Wham", "Bleep"]],
+      "output": ["Wham"]
+  }
+]
