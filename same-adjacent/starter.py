@@ -1,0 +1,1 @@
+def adjacent(str, char):
