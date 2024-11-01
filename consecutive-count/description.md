@@ -1,4 +1,4 @@
-Write a function that takes in a given a list of integers nums,and: return the number of times two consecutive elements in the list are the same.
+Write a function that takes in a given list of integers` nums` and returns the number of times two consecutive elements in the list are the same.
 
 For example:
 
