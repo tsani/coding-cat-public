@@ -14,5 +14,9 @@
   {
     "input": ["xyxyxyxy", "x", "y"],
     "output": 7
+  },
+  {
+    "input": ["xxxxxxx", "x", "z"],
+    "output": 0
   }
 ]
