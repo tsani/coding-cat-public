@@ -1,1 +1,1 @@
-def reverse_string(string)
+def reverse_string(string):
