@@ -1,6 +1,6 @@
 {
   "title": "Fibonacci",
-  "name": "iter_fibonacci",
+  "name": "fibonacci",
   "difficulty": "easy",
   "author": "Joey Scozzari",
   "category": "numbers"
