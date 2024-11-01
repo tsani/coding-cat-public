@@ -4,19 +4,19 @@
     "output": ""
   },
   {
-    "input": "Ronald McDonald",
+    "input": ["Ronald McDonald"],
     "output": "dlanoDcM dlanoR"
   },
   {
-    "input": "naUfnod",
+    "input": ["naUfnod"],
     "output": "donfUan"
   },
   {
-    "input": "rotator",
+    "input": ["rotator"],
     "output": "rotator"
   },
   {
-    "input": "001000111010",
+    "input": ["001000111010"],
     "output": "010111000100"
   }
 ]
