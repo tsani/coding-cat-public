@@ -1,1 +1,1 @@
-def answer_cell(morning: bool, mom: bool, is_asleep: bool) -> bool:
+def range_chars(a: str, b: str) -> str:

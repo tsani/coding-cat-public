@@ -1,7 +1,7 @@
 {
-  "title": "Answer Cell",
-  "name": "answer_cell",
+  "title": "Range Characters",
+  "name": "range_chars",
   "difficulty": "hard",
-  "author": "ChatGPT",
-  "category": "logic"
+  "author": "Samuel Corsi-House",
+  "category": "loops"
 }

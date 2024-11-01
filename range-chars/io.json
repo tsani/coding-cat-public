@@ -1,22 +1,26 @@
 [
   {
-    "input": [false, false, false],
-    "output": true
+    "input": ["blood", "flood"],
+    "output": "lood"
   },
   {
-    "input": [false, false, true],
-    "output": false
+    "input": ["blame", "grown"],
+    "output": ""
   },
   {
-    "input": [true, false, false],
-    "output": false
+    "input": ["ixixixixi", "xixixixix"],
+    "output": "ixixixixi"
   },
   {
-    "input": [true, true, false],
-    "output": true
+    "input": ["manny", "plenty"],
+    "output": "nn"
   },
   {
-    "input": [false, true, true],
-    "output": false
+    "input": ["abcCdefg", "vacCgfbl"],
+    "output": "acCf"
+  },
+  {
+    "input": ["123", "435"],
+    "output": "3"
   }
 ]
