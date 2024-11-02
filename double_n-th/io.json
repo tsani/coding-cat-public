@@ -1,22 +1,22 @@
 [
   {
-    "input": [false, false, false],
-    "output": true
+    "input": ["Programming", 3],
+    "output": "Proograammiing"
   },
   {
-    "input": [false, false, true],
-    "output": false
+    "input": ["Hi", 2],
+    "output": "Hii"
   },
   {
-    "input": [true, false, false],
-    "output": false
+    "input": ["Cat", 4],
+    "output": "Cat"
   },
   {
-    "input": [true, true, false],
-    "output": true
+    "input": ["Word", 0],
+    "output": ""
   },
   {
-    "input": [false, true, true],
-    "output": false
+    "input": ["Negative", -1],
+    "output": ""
   }
 ]
