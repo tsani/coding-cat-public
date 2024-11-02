@@ -1,0 +1,1 @@
+def pull_primes(nums):
