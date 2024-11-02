@@ -1,13 +1,6 @@
-
-Write a function `answer_cell(morning: bool, mom: bool, is_asleep: bool) -> bool` that determines whether you should answer your cell phone based on the following conditions:
-
-- Normally, you answer the phone except when you are asleep.
-- In the morning, you only answer if it is your mom calling.
-- If you are asleep, you do not answer the phone regardless of the time or who is calling.
-
-Return `True` if you should answer the phone and `False` otherwise.
+You are working as a non-teaching assistant in a school. The principal gives you lists of students for various classes. Your task is to rearrange the list in an alphabetical order as well as create a new list in which each student will have a roll number according to the alphabetical order of their names. However, if you get an empty list or empty string (no name or string is empty), give the output “Invalid List”.
 
 For example:
-- If `morning` is `false`, `mom` is `false`, and `is_asleep` is `false`, you should answer, so the output is `true`.
-- If `morning` is `false`, `mom` is `false`, and `is_asleep` is `true`, you should not answer because you are asleep, so the output is `false`.
-- If `morning` is `true`, `mom` is `false`, and `is_asleep` is `false`, you should not answer because it is not your mom calling, so the output is `false`.
+- `assign_roll_numbers([“James”, “Eric”, “Antman”]) → [[1, “Antman”], [2, “Eric”], [3, “James”]]`
+- `assign_roll_numbers([“Khan”, “Singh”, “Maha”, “Karl”]) → [[1, “Karl”], [2, “Khan”], [3, “Maha”], [4, “Singh”]]`
+- `assign_roll_numbers([“A”, “Aa”, “a”]) → [[1, “A”], [2, “Aa”], [3, “a”]]`
