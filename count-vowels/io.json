@@ -1,0 +1,22 @@
+[
+  {
+    "input": "Hello World",
+    "output": 3
+  },
+  {
+    "input": "Intro To Programming",
+    "output": 5
+  },
+  {
+    "input": "Pineapple",
+    "output": 4
+  },
+  {
+    "input": "School sucks",
+    "output": 3
+  },
+  {
+    "input": "It is cold outside",
+    "output": 6
+  }
+]
