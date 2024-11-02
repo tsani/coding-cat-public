@@ -1,22 +1,22 @@
 [
   {
-    "input": [false, false, false],
-    "output": true
+    "input": [[“James”, “Eric”, “Antman”]],
+    "output": [[1, “Antman”], [2, “Eric”], [3, “James”]]
   },
   {
-    "input": [false, false, true],
-    "output": false
+    "input": [[“Khan”, “Singh”, “Maha”, “Karl”]],
+    "output": [[1, “Karl”], [2, “Khan”], [3, “Maha”], [4, “Singh”]]
   },
   {
-    "input": [true, false, false],
-    "output": false
+    "input": [[“A”, “Aa”, “a”]],
+    "output": [[1, “A”], [2, “Aa”], [3, “a”]]
   },
   {
-    "input": [true, true, false],
-    "output": true
+    "input": [[]],
+    "output": "Invalid list"
   },
   {
-    "input": [false, true, true],
-    "output": false
+    "input": [["Ferrari", "Tesla", "Honda", ""]],
+    "output": "Invalid list"
   }
 ]
