@@ -1,30 +1,30 @@
 [
-	{
-		"input": ["apple"],
-		"output": "aeplp"
-	},
-	{
-		"input": ["string"],
-		"output": "sgtnri"
-	},
-	{
-		"input": ["codingbat"],
-		"output": "ctoadbign"
-	},
-	{
-		"input": ["absolutely"],
-		"output": "ayblseotlu"
-	},
-	{
-		"input": ["alexandra"],
-		"output": "aalredxna"
-	},
-	{
-		"input": [""],
-		"output": ""
-	},
-	{
-		"input": ["!?., "],
-		"output": "‘! ?,."
-	}
+  {
+    "input": ["apple"],
+    "output": "aeplp"
+  },
+  {
+    "input": ["string"],
+    "output": "sgtnri"
+  },
+  {
+    "input": ["codingbat"],
+    "output": "ctoadbign"
+  },
+  {
+    "input": ["absolutely"],
+    "output": "ayblseotlu"
+  },
+  {
+    "input": ["alexandra"],
+    "output": "aalredxna"
+  },
+  {
+    "input": [""],
+    "output": ""
+  },
+  {
+    "input": ["!?., "],
+    "output": "‘! ?,."
+  }
 ]
