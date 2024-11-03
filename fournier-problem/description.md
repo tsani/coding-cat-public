@@ -1,0 +1,1 @@
+Given an array of a random length of ints write a function `is_same(a: int, b: int) -> bool` that returns true or false if their exists an int `a` and `b` that are next to each other and have the same value. _Hint: solve [is-even first](https://coding-cat.club/problems/is_even)._
