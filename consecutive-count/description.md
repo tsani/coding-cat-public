@@ -4,4 +4,4 @@ For example:
 
 - consecutive_count([5, 5, 5, 6, 7]) -->  2
 - consecutive_count([1, 2, 3, 4, 5]) --> 0
-- consecutive-count([8, 8, 8, 8]) --> 3
+- consecutive_count([8, 8, 8, 8]) --> 3
