@@ -8,12 +8,12 @@
     "output": "Baby pyramid"
   },
   {
-    "input": [7, 4, 1],
+    "input": [-7, 4, 1],
     "output": "Baby pyramid"
   },
   {
-    "input": [7, 3, 5],
-    "output": "I mean, it's alright..."
+    "input": [2, 3, 5],
+    "output": "Baby pyramid"
   },
   {
     "input": [8, 2, 4],
