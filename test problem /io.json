@@ -1,14 +1,18 @@
 [
   {
+    "input": ["Hello"]
+    "output": ["2"]
+  },
+  {
     "input": ["This is an input"]
     "output": 5
   },
   {
-    "input": ["How was your day"]
-    "output": 7
+    "input": ["Here's a little hint"]
+    "output": 6
   },
   {
-    "input": ["Good luck by the way"]
-    "output": 7
+    "input": ["Don't bother with capital letters"]
+    "output": 9
   }
 ]
