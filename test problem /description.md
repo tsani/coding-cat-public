@@ -3,4 +3,6 @@ Write a function count_vowels(s) that takes a string s and returns the number of
 def count_vowels(s: str) -> int:
 
 Example:
-count_vowels(‘Hello’) should return 3
+count_vowels('Hello') should return 2
+count_vowels('This is an input') should return 5
+count_vowels('Video games are fun') should return 8
