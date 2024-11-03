@@ -18,5 +18,9 @@
   {
     "input": ["Negative", -1],
     "output": ""
+  },
+  {
+    "input": ["", -1],
+    "output": ""
   }
 ]
