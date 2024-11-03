@@ -1,1 +1,1 @@
-def answer_cell(morning: bool, mom: bool, is_asleep: bool) -> bool:
+def double_n-th(str,n) -> bool:
