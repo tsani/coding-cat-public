@@ -1,5 +1,5 @@
 from typing import List
 
-def biggerTwo(a: List[int], b: List[int]) -> List[int]:
+def elementArranger(a: List[int,str,etc]) -> List[str]:
     # Your code here
     pass
