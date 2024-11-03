@@ -1,1 +1,1 @@
-def vowel_finder(word):
+def vowel_finder(word: str) -> list:
