@@ -1,5 +1,5 @@
 
-Write a function `vowel_finder(input)` that outputs a list containing all of the vowels inside of the input.
+Write a function `vowel_finder(input)` that outputs a list containing all of the vowels inside of string input.
 
 - This includes capital letters. (eg: Y and y)
 - The outputted list MUST be in order.
