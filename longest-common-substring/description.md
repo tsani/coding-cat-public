@@ -1,5 +1,5 @@
 
-Given two non-empty strings, write a function 'longest_common_substring(a, b) that gives back an integer which indicates the length of the longest common substring between these two strings.
+Given two non-empty strings, write a function 'longest_common_substring(a, b)' that gives back an integer which indicates the length of the longest common substring between these two strings.
 For example:
 - longest_common_substring('abcf','abcd') returns 3
 - longest_common_substring('nghiiiii','nghiabdre') returns 4
