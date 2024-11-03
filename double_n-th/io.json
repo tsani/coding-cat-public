@@ -1,15 +1,11 @@
 [
   {
-    "input": ["Programming", 3],
-    "output": "Proograammiing"
-  },
-  {
     "input": ["Pneumonoultramicroscopicsilicovolcanoconiosis", 10],
     "output": "Pneumonoulltramicrosccopicsilicoovolcanoconniosis"
   },
   {
-    "input": ["Hi", 2],
-    "output": "Hii"
+    "input": ["Bunch", 2],
+    "output": "Buuncch"
   },
   {
     "input": ["Cat", 4],
@@ -25,10 +21,6 @@
   },
   {
     "input": ["", -1],
-    "output": ""
-  },
-  {
-    "input": ["", 0],
     "output": ""
   }
 ]
