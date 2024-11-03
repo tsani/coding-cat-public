@@ -4,6 +4,10 @@
     "output": "Proograammiing"
   },
   {
+    "input": ["Pneumonoultramicroscopicsilicovolcanoconiosis", 10],
+    "output": "Pneumonoulltramicrosccopicsilicoovolcanoconniosis"
+  },
+  {
     "input": ["Hi", 2],
     "output": "Hii"
   },
@@ -21,6 +25,10 @@
   },
   {
     "input": ["", -1],
+    "output": ""
+  },
+  {
+    "input": ["", 0],
     "output": ""
   }
 ]
