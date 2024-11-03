@@ -1,1 +1,1 @@
-def smae_value(array) -> bool:
+def smae_value(array):
