@@ -1,1 +1,1 @@
-def adjacent(str, char):
+def same_adjacent(str, char):
