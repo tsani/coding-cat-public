@@ -1,7 +1,7 @@
 {
   "title": "Double n-th Character",
-  "name": "answer_cell",
-  "difficulty": "hard",
-  "author": "ChatGPT",
+  "name": "double_n-th",
+  "difficulty": "easy",
+  "author": "David Hack",
   "category": "logic"
 }
