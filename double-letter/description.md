@@ -1,0 +1,6 @@
+Given a string, double the second consonant in the string to form the actual word. 
+
+double_letter("buble") -> ("bubble")
+double_letter("buny") -> ("bunny")
+double_letter("helo kitty") -> ("hello kitty")
+
