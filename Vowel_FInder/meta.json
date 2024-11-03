@@ -1,7 +1,7 @@
 {
-  "title": "Answer Cell",
-  "name": "answer_cell",
-  "difficulty": "hard",
-  "author": "ChatGPT",
-  "category": "logic"
+  "title": "Vowel Finder",
+  "name": "vowel_finder",
+  "difficulty": "medium",
+  "author": "Luke Assaad",
+  "category": "list-2"
 }
