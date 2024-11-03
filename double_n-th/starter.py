@@ -1,1 +1,1 @@
-def double_n-th(str,n) -> bool:
+def double_n-th(str,n):
