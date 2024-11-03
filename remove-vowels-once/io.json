@@ -1,7 +1,7 @@
 [
   {
-    "input": ["Cheescake],
-    "output": "Chescke"
+    "input": ["Cheesecake"],
+    "output": "Chesecke"
   },
   {
     "input": ["Yelp"],
