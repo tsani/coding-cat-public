@@ -4,7 +4,7 @@
     "output": "That's a big pyramid!"
   },
   {
-    "input": [2, 3, 12],
+    "input": [0, 3, 12],
     "output": "Baby pyramid"
   },
   {
