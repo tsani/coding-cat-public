@@ -1,22 +1,22 @@
 [
   {
-    "input": [false, false, false],
-    "output": true
+    "input": ["nice"],
+    "output": ["i","e"]
   },
   {
-    "input": [false, false, true],
-    "output": false
+    "input": ["a"],
+    "output": ["a"]
   },
   {
-    "input": [true, false, false],
-    "output": false
+    "input": ["VeryY lOng and complIcAtEd inpUt"],
+    "output": ["e","y","Y","O","a","o","I","A","E","i","U"]
   },
   {
-    "input": [true, true, false],
-    "output": true
+    "input": ["f"],
+    "output": []
   },
   {
-    "input": [false, true, true],
-    "output": false
+    "input": ["amicAl"],
+    "output": ["a","i","A"]
   }
 ]
