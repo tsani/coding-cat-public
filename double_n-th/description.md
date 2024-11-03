@@ -1,4 +1,4 @@
-Write a function `double_n-th(str,n)` that when given a string and an integer n, returns a new string where every n-th character position in the original string is doubled based on the following conditions:
+Write a function `double_n-th(str,n)` that when given a string and an integer `n`, returns a new string where every `n`-th character position in the original string is repeated based on the following conditions:
 
 - Normally, you return the string with every `n`-th character doubled.
 - If `n` is greater than the string length, return the original string.
