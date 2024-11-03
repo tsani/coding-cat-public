@@ -1,13 +1,8 @@
+Make a function, fibo_lessthan() that takes an argument n that prints the fibonacci sequence of numbers lesser than n
+The output should be a sequence (not list!) of all fibonacci numbers lesser than or equal to n. Using the keyword end = “ “ is pretty much necessary when formatting the string to keep it in one line.
+Be aware that any number could be tried, inappropriate cases should make the function return False.
+Examples of inputs:
+ fibo_lessthan(25) = 0, 1, 1, 2, 3, 5, 8, 13, 21
+ fibo_lessthan(12) = 0, 1, 1, 2, 3, 5, 8
+ fibo_lessthan(104) = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89
 
-Write a function `answer_cell(morning: bool, mom: bool, is_asleep: bool) -> bool` that determines whether you should answer your cell phone based on the following conditions:
-
-- Normally, you answer the phone except when you are asleep.
-- In the morning, you only answer if it is your mom calling.
-- If you are asleep, you do not answer the phone regardless of the time or who is calling.
-
-Return `True` if you should answer the phone and `False` otherwise.
-
-For example:
-- If `morning` is `false`, `mom` is `false`, and `is_asleep` is `false`, you should answer, so the output is `true`.
-- If `morning` is `false`, `mom` is `false`, and `is_asleep` is `true`, you should not answer because you are asleep, so the output is `false`.
-- If `morning` is `true`, `mom` is `false`, and `is_asleep` is `false`, you should not answer because it is not your mom calling, so the output is `false`.

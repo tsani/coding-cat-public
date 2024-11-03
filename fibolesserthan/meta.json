@@ -1,7 +1,8 @@
 {
-  "title": "Answer Cell",
-  "name": "answer_cell",
-  "difficulty": "hard",
-  "author": "ChatGPT",
-  "category": "logic"
-}
+    "title": "FiboLesserThan",
+    "name": "fibo_lessthan()",
+    "difficulty": "hard",
+    "author": "Jesus Monroy IV",
+    "category": "list-2"
+    }
+    

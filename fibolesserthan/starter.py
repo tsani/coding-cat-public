@@ -1,1 +1,5 @@
-def answer_cell(morning: bool, mom: bool, is_asleep: bool) -> bool:
+
+
+def fibo_lessthan(n):
+    #The end keyword will ensure the printed message is one one line.
+    print(____, end= " ")
