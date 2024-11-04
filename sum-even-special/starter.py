@@ -1,5 +1,5 @@
 def is_prime (n):
     """Code Here"""
     
-def sumOfEvenSpecial(lst):
+def sum_even_special(lst):
     """Code Here"""
