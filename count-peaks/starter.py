@@ -1,1 +1,1 @@
-def count_peaks(nums: List[int]) -> int:
+def count_peaks(nums):
