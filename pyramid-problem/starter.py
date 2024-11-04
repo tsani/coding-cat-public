@@ -1,1 +1,1 @@
-def pyramid_volume(L, W, H):
+def pyramid_volume(l, w, h):
