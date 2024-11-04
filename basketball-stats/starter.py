@@ -1,1 +1,1 @@
-def bball_stats(twos: int, threes: int, shotsTaken: int) -> int, string:
+def bball_stats(twos: int, threes: int, shotsTaken: int):

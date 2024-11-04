@@ -6,9 +6,9 @@ Calculate how many total points they have, as well as their FG% (shots made / sh
 Example: `"66.666%" = "66%"`
 (Hint: `import math`, then use `math.floor()`)
 
-Write a function `bball_stats(twos: int, threes: int, shotsTaken: int) -> int, string` that takes three integer inputs, `twos`, `threes`, and `shotsTaken`.
+Write a function `bball_stats(twos: int, threes: int, shotsTaken: int)` that takes three integer inputs, `twos`, `threes`, and `shotsTaken`.
 
-Return a list with an `int` and a `string`, where the `int` is their total amount of points and the `string` is the field goal percentage as a number with a percent. 
+Return a list with an `int` and a `str`, where the `int` is their total amount of points and the `str` is the field goal percentage as a number with a percent. 
 
 Examples:
 
