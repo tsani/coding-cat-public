@@ -1,1 +1,1 @@
-def make_combinations(letters: str, numbers: int):
+def make_combinations(letters, numbers):
