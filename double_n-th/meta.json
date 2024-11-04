@@ -1,7 +1,7 @@
 {
   "title": "Double n-th Character",
-  "name": "double_n-th",
+  "name": "double_nth",
   "difficulty": "easy",
   "author": "David Hack",
-  "category": "strings"
+  "category": "string-2"
 }
