@@ -16,6 +16,10 @@
     "output": "Invalid list"
   },
   {
+    "input": [["1", "David", "$"]],
+    "output": [[1, "$"], [2, "1"], [3, "David"]]
+  },   
+  {
     "input": [["Ferrari", "Tesla", "Honda", ""]],
     "output": "Invalid list"
   }
