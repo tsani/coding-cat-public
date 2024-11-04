@@ -1,2 +1,2 @@
-def count_vowels(s: str) -> int:
+def count_vowels(string):
   
