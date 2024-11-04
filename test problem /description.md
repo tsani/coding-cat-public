@@ -1,6 +1,6 @@
 Write a function count_vowels(s) that takes a string s and returns the number of vowels (a, e, i, o, u, y) in the string.
 
-def count_vowels(s: str) -> int:
+def count_vowels(string):
 
 Example:
 count_vowels('Hello') should return 2
