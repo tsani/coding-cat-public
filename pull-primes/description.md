@@ -5,6 +5,6 @@ For the sake of simplicity, assume that we only care for the prime factors 2, 3,
 For example:
 - [1, 3, 12, 14] returns [1, 3]
 - [12, 13, 41, 62] returns [13, 41]
-- [12, 14, 16, 18] prints `There are no prime numbers in this list`
+- [12, 14, 16, 18] returns `There are no prime numbers in this list`
 
 Hint: Modulo is required
