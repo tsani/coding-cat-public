@@ -1,4 +1,4 @@
-Write a function count_vowels(s) that takes a string s and returns the number of vowels (a, e, i, o, u, y) in the string.
+Write a function count_vowels(s) that takes a string and returns the number of vowels (a, e, i, o, u, y) in it.
 
 def count_vowels(string):
 
