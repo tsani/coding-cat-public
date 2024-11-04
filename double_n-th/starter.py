@@ -1,1 +1,1 @@
-def double_n-th(str,n):
+def double_nth(str,n):
