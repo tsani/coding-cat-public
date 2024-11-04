@@ -1,18 +1,18 @@
 [
   {
-    "input": ["Hello"]
+    "input": ["Hello"],
     "output": 2
   },
   {
-    "input": ["This is an input"]
+    "input": ["This is an input"],
     "output": 5
   },
   {
-    "input": ["Here's a little hint"]
+    "input": ["Here's a little hint"],
     "output": 6
   },
   {
-    "input": ["Don't bother with capital letters"]
+    "input": ["Don't bother with capital letters"],
     "output": 9
   }
 ]
