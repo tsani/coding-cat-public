@@ -1,1 +1,1 @@
-def smae_value(array):
+def is_same(array):
