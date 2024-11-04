@@ -1,5 +1,5 @@
-Make a function, fibo_lessthan() that takes an argument n that prints the fibonacci sequence of numbers lesser than or equal to n, then returns all of them as a list.
-The sequence printed must be the sequence of all fibonacci numbers lesser than or equal to n. Using the keyword end = " " is pretty much necessary when formatting the string to keep it in one line.
+Make a function, fibo_lessthan() that takes an integer argument n that prints the fibonacci sequence of numbers lesser than or equal to n, then returns all of them as a list.
+The sequence printed must be the sequence of all fibonacci numbers lesser than or equal to an integer n. Using the keyword end = " " is pretty much necessary when formatting the string to keep it in one line.
 Be aware that any number could be tried, inappropriate cases should make the function return False.
 
 Examples of inputs:
