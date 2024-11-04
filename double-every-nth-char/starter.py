@@ -1,1 +1,1 @@
-def double_nth(text, n):
+def double_nth(text: str, n: int) -> str:
