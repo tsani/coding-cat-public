@@ -16,7 +16,7 @@
     "output": [[]]
   },
   {
-    "input": [6,"nervous",26,"vulture",7],
+    "input": [[6,"nervous",26,"vulture",7]],
     "output": [["nervous","vulture"]]
   }
 ]
