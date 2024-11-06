@@ -1,22 +1,22 @@
 [
   {
-    "input": "testest",
+    "input": ["testest"],
     "output": 0
   },
   {
-    "input": "AaAaEeAa",
+    "input": ["AaAaEeAa"],
     "output": 7
   },
   {
-    "input": "TikiTakaa",
+    "input": ["TikiTakaa"],
     "output": 1
   },
   {
-    "input": "AhAhB00ooOO#",
+    "input": ["AhAhB00ooOO#"],
     "output": 3
   },
   {
-    "input": "EricMayhew",
+    "input": ["EricMayhew"],
     "output": 0
   }
 ]
