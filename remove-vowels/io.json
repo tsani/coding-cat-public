@@ -5,18 +5,18 @@
   },
   {
     "input": ["wwwww"],
-    "output": ["wwwww"]
+    "output": "wwwww"
   },
   {
     "input": ["python"],
-    "output": ["pythn"]
+    "output": "pythn"
   },
   {
     "input": ["about"],
-    "output": ["bt"]
+    "output": "bt"
   },
   {
     "input": ["hello world!"],
-    "output": ["hll wrld!"]
+    "output": "hll wrld!"
   }
 ]
