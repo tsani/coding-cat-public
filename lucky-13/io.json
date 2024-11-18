@@ -1,0 +1,26 @@
+[
+  {
+    "input": [[3, 5, 7, 9]],
+    "output": false
+  },
+  {
+    "input": [[0, 5, 10, 2, 1]],
+    "output": true
+  },
+  {
+    "input": [[1, 12]],
+    "output": true
+  },
+  {
+    "input": [[13]],
+    "output": true
+  },
+  {
+    "input": [[1, 2, 5, 3, 4]],
+    "output": false
+  },
+  {
+    "input": [[]],
+    "output": false
+  }
+]
