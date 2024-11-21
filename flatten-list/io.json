@@ -4,12 +4,12 @@
         "output": [1, 2, 3, 4, 5, 6]
     },
     {
-        "input": [[1, [2, [("wait", "this", "is", "a", "tuple"), [4, [5]]]]]],
-        "output": [1, 2, ("wait", "this", "is", "a", "tuple"), 4, 5]
+        "input": [[1, [2, [{"wait":"a second", "this":"is", "a":"Dictionary"}, [4, [5]]]]]],
+        "output": [1, 2, {"wait":"a second", "this":"is", "a":"Dictionary"}, 4, 5]
     },
     {
-        "input": [[1, [2, 3], ("Tuple", ("Inside", "Another", "Tuple")), [[[[4]]]]]],
-        "output": [1, 2, 3, ("Tuple", ("Inside", "Another", "Tuple")), 4]
+        "input": [[1, [2, 3], {"Dictionary-ception":{"Dictionary":"Inside", "Another":"Dictionary"}}, [[[[4]]]]]],
+        "output": [1, 2, 3, {"Dictionary-ception":{"Dictionary":"Inside", "Another":"Dictionary"}}, 4]
     },
     {
         "input": [[1, "a", [2, "b", [3, "c"]]]],
@@ -20,12 +20,12 @@
         "output": []
     },
     {
-        "input": [[()]],
-        "output": [()]
+        "input": [[{}]],
+        "output": [{}]
     },
     {
-        "input": [[[[[[([])]]]]]],
-        "output": [([])]
+        "input": [[[[[[{}, {}], {}], {}], {}], {}]],
+        "output": [{}, {}, {}, {}, {}, {}]
     },
     {
         "input": [[[[[[[[[[[10], 9], 8], 7], 6], 5], 4], 3], 2], 1]],
