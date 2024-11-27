@@ -1,0 +1,1 @@
+def vowel_caps(s: str) -> str:
