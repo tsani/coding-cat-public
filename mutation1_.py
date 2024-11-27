@@ -1,7 +1,7 @@
 def range_chars(a: str, b: str) -> str:
     """
      This code does not handle strings of different lengths correctly
-     Some inputs will still work if b is longer
+     Some inputs will still work if b is longer which is wrong
     """
   result = ""
     for i in range(len(a)):
