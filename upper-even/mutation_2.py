@@ -1,8 +1,10 @@
 def upper_even_i(string):
     '''
     Mutation 2:
+
     Switch upper with lower
     and vice versa
+    
     '''
     result = ""
     for i in range(len(string)):
