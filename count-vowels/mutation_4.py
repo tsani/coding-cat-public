@@ -4,3 +4,4 @@ def count_vowels(string):
         if i in ['aeiouyAEIOUY']:
             lst.append(i)
     return len(lst)
+print(count_vowels('a'))
