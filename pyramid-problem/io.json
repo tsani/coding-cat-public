@@ -16,7 +16,7 @@
     "output": "Baby pyramid"
   },
   {
-    "input": [8, 2, 4],
+    "input": [120, 0.5, 0.5],
     "output": "I mean, it's alright..."
   }
 ]
