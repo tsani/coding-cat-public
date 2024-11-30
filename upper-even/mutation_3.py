@@ -3,6 +3,8 @@ def upper_even_i(string):
     Mutation 3:
 
     Make range - 1
+    Which means the loop won't iterate 
+    over each character in the string
     
     '''
     result = ""
