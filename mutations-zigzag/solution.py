@@ -7,4 +7,6 @@ def zig_zag(s):
         else:  # Odd index
             result += s.pop(-1)  # Remove from the end
     return result
+"""this is the correct implementation"""
+
 

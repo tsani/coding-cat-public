@@ -6,5 +6,5 @@ def zig_zag(s):
             result += s.pop(0)  # Remove from the beginning
         else:  # Odd index
             result += s.pop(-1)  # Remove from the end
-    """ Missing return statement here""""
+    """ Missing return statement here"""
 
