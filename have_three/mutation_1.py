@@ -2,7 +2,7 @@ def have_3_threes(nums):
     '''
 	Allows more than 3 3's
     '''
-    if nums.count(3) != 3:
+    if nums.count(3) >= 3:
         return False
         
     for i in range(len(nums) - 1):
