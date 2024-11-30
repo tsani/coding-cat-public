@@ -1,4 +1,7 @@
 def alpha_order(word : str) -> str:
+        '''
+            Correct implementation
+        '''
 	new_word = ""
 	word = list(word)
 	for n in range(len(word)-1):
