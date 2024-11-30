@@ -9,3 +9,4 @@ def adjacent_vowels(word: str) -> int:
         return 1 + adjacent_vowels(word[1:])
 
     return adjacent_vowels(word[1:])
+

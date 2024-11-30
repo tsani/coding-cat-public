@@ -7,4 +7,3 @@ def adjacent_vowels(word: str) -> int:
 
     return count
 
-print(adjacent_vowels('a a a'))

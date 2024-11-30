@@ -10,3 +10,4 @@ def adjacent_vowels(word: str) -> int:
             count += 1
 
     return count
+
