@@ -1,6 +1,6 @@
 def alpha_order(word : str) -> str:
 	'''
-	Swap the values after second for loop
+	   Swap the values after second for loop
 	'''
 	new_word = ""
         word = list(word)
