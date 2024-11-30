@@ -6,4 +6,4 @@ def consecutive_count(nums):
     for n in range(len(nums)): #
         if nums[n] == nums[n+1]:
             count += 1
-    return count
+        return count
