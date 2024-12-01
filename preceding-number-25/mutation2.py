@@ -1,15 +1,15 @@
 def preceding_number25(lst):
     '''
-        Swapped the conditions num == 2 and num == 5
+        Reversed the order of the appended values.
     '''
     result = []
     for num in lst:
-        if num == 5:
-            result.append(5)
-            result.append(2)
-        elif num == 2:
+        if num == 2:
             result.append(2)
             result.append(5)
+        elif num == 5:
+            result.append(5)
+            result.append(2)
         else:
             result.append(num)
     return result

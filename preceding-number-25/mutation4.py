@@ -1,6 +1,6 @@
 def preceding_number25(lst):
     '''
-        Forgot to consider numbers that are not 2 or 5
+        Returned the original list.
     '''
     result = []
     for num in lst:
@@ -10,5 +10,6 @@ def preceding_number25(lst):
         elif num == 5:
             result.append(2)
             result.append(5)
-
-    return result
+        else:
+            result.append(num)
+    return lst
