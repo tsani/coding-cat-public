@@ -1,5 +1,7 @@
-#Wrong indentation so the sum will be appended each time and not only at the end
 def add_evens(numbers):
+    '''
+    Wrong indentation so the sum will be appended each time and not only at the end
+    '''
     total = 0
     for x in numbers:
         if x % 2 == 0:

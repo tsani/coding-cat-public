@@ -1,6 +1,7 @@
-#appending all even elements of the list instead of its sum
-
 def add_evens(numbers):
+    '''
+    appending all even elements of the list instead of its sum
+    '''
     list1 = []
     for x in range(len(numbers)):
         if numbers[x] % 2 == 0:
