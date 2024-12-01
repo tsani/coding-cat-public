@@ -5,6 +5,9 @@ def upper_even_i(string):
     Switch upper with lower
     and vice versa
     
+    This means the wrong characters
+    will be lower and upper case
+
     '''
     result = ""
     for i in range(len(string)):

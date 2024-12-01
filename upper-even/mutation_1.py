@@ -7,6 +7,9 @@ def upper_even_i(string):
     to 
     i % 2 == 1
     
+    This means the wrong characters
+    will be lower and upper case
+
     '''
     result = ""
     for i in range(len(string)):
