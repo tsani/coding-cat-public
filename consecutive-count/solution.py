@@ -1,4 +1,7 @@
 def consecutive_count(nums):
+    '''
+    Correct implementation
+    '''
     count = 0
     for n in range(len(nums)-1):
         if nums[n] == nums[n+1]:
