@@ -1,7 +1,7 @@
-def is_prime ( n ) :
+def is_prime(n):
     if n <= 1:
         return False
-    for i in range (2 , n ) :
+    for i in range(2, n):
         if n % i == 0:
             return False
     return True
@@ -9,7 +9,7 @@ def is_prime ( n ) :
 def sum_even_special(lst):
     total_sum = 0
     for num in lst :
-        if is_prime(num) :
+        if is_prime(num):
             '''
                 Not checking for divisible by 3
             '''
