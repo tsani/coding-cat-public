@@ -2,7 +2,6 @@ def is_18(birth_date: str, current_date: str) -> bool:
     '''
     Mutation 5: Incorrectly requires age to be greater than 18 instead of at least 18.
     '''
-    from datetime import datetime
 
     birth_year, birth_month, birth_day = map(int, birth_date.split('-'))
     current_year, current_month, current_day = map(int, current_date.split('-'))

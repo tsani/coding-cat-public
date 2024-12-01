@@ -1,19 +1,15 @@
 def is_18(birth_date: str, current_date: str) -> bool:
     '''
-    Mutation 3: Incorrectly handles birthdays on December 31 by always returning False.
+    Mutation 3: Swaps month and day when comparing dates, leading to incorrect age calculation.
     '''
-    from datetime import datetime
 
     birth_year, birth_month, birth_day = map(int, birth_date.split('-'))
     current_year, current_month, current_day = map(int, current_date.split('-'))
 
-    # Incorrectly rejects birthdays on December 31
-    if birth_month == 12 and birth_day == 31:
-        return False  # Automatically rejects December 31 birthdays
-
     age = current_year - birth_year
 
-    if (current_month, current_day) < (birth_month, birth_day):
+    # Incorrectly swaps month and day in comparison
+    if (current_day, current_month) < (birth_month, birth_day):
         age -= 1
 
     return age >= 18

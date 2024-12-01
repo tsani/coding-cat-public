@@ -2,7 +2,6 @@ def is_18(birth_date: str, current_date: str) -> bool:
     """
     Determines if a person is 18 years or older based on their birth date.
     """
-    from datetime import datetime
 
     birth_year, birth_month, birth_day = map(int, birth_date.split("-"))
     current_year, current_month, current_day = map(int, current_date.split("-"))
