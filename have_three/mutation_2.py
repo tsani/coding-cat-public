@@ -1,6 +1,6 @@
 def have_3_threes(nums):
     '''
-        Might not check full list
+        Returns True after only 1st element
     '''
     if nums.count(3) != 3:
         return False
