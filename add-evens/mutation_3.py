@@ -1,10 +1,10 @@
 def add_evens(numbers):
     '''
-    Wrong indentation so the sum will be appended each time and not only at the end
+    checking for odd numbers instead of even numbers
     '''
     total = 0
     for x in numbers:
-        if x % 2 == 0:
+        if x % 2 == 1:
             total = total + x
-            numbers.append(total)
+    numbers.append(total)
     return numbers
