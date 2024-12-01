@@ -7,7 +7,8 @@ def upper_even_i(string):
     to 
     i % 2 == 1
     
-    This means the wrong characters
+    This means the characters 
+    at the wrong index
     will be lower and upper case
 
     '''
