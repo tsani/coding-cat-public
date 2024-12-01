@@ -1,0 +1,23 @@
+[
+  {
+    "input": ["testest"],
+    "output": 0
+  },
+  {
+    "input": ["AaAaEeAa"],
+    "output": 7
+  },
+  {
+    "input": ["TikiTakaa"],
+    "output": 1
+  },
+  {
+    "input": ["AhAhB00ooOO#"],
+    "output": 3
+  },
+  {
+    "input": ["EricMayhew"],
+    "output": 0
+  }
+]
+
