@@ -1,2 +1,2 @@
-def reverse_string(string):
+def reverse_string(s):
     return string[::-1]
