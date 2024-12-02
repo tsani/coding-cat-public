@@ -1,4 +1,4 @@
-def mutation_1(numbers):
+def even_list(numbers):
 '''
     simple mistake, divided by 2 instead of modulus 2
 '''
