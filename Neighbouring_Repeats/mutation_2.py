@@ -1,6 +1,6 @@
 def neighbour_repeat(word: str) -> str:
     '''
-    Forgot to stricten the loop boundary
+    Forgot to stricten the loop boundary, it should start at the second letter
     '''
     new_word = ""
     if len(word) == 1:
