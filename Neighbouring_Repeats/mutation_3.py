@@ -3,6 +3,7 @@ def neighbour_repeat(word: str) -> str:
     Forgot to add a check for words of length 2
     '''
     new_word = ""
+    # Check for words of length 2 should be here 
     if len(word) == 1:
         return word
     for i in range(1, len(word)-1):
