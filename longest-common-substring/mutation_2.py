@@ -1,12 +1,12 @@
-def longest_common_substring(a,b):
+def longest_common_substring(a, b):
     '''
-        Omitting i & j in the index for a & b in the while loop
+        wrong comparing symbols.
     '''
     max_len = 0
     for i in range(len(a)):
         for j in range(len(b)):
             length = 0
-            while i + length < len(a) and j + length < len(b) and a[length] == b[length]:
+            while i + length > len(a) and j + length > len(b) and a[i + length] == b[j+ length]:
                 length += 1
             max_len = max(max_len, length)
     return max_len
