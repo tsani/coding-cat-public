@@ -1,4 +1,3 @@
-#v2
 def list_match(list_1, list_2):
 '''
 count already has a starting value
