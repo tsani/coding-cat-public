@@ -1,20 +1,5 @@
 [
   {
-<<<<<<< HEAD
-    "input": ["Hello"]
-    "output": 2
-  },
-  {
-    "input": ["This is an input"]
-    "output": 5
-  },
-  {
-    "input": ["Here's a little hint"]
-    "output": 6
-  },
-  {
-    "input": ["Don't bother with capital letters"]
-=======
     "input": ["Hello"],
     "output": 2
   },
@@ -28,7 +13,22 @@
   },
   {
     "input": ["Don't bother with capital letters"],
->>>>>>> f9550494341c0b3e2e288a32cc4ceac954f0f74e
+    "output": 9
+  },
+  {
+    "input": ["Hello"],
+    "output": 2
+  },
+  {
+    "input": ["This is an input"],
+    "output": 5
+  },
+  {
+    "input": ["Here's a little hint"],
+    "output": 6
+  },
+  {
+    "input": ["Don't bother with capital letters"],
     "output": 9
   }
 ]
