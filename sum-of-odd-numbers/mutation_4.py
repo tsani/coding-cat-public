@@ -7,4 +7,4 @@ def sum_of_odd(lst):
         if lst[i] % 2 == 1:
             if lst[i] != lst[0] and lst[i] != lst[-1]:
                 sum += lst[i]
-    return sum	     # Wrong return
+    return lst	     # Wrong return
