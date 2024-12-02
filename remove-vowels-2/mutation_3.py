@@ -1,11 +1,11 @@
 def remove_vowels(word: str, y_is_a_vowel: bool) -> str:
     '''
-    Omitting to check for spaces in the word
+    Assigning "yY" to vowels if y_is_a_vowel is True instead of adding it to the vowels string
     '''
     vowels = "aeiouAEIOU"
-    vowels += "yY" if y_is_a_vowel else ""
+    vowels = "yY" if y_is_a_vowel else ""
     result = ""
-    for letter in word: # or letter == " "     is missing
+    for letter in word:
         if letter not in vowels:
             result += letter
     return result
