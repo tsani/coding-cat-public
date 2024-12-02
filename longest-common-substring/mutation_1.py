@@ -2,7 +2,7 @@ def longest_common_substring(a, b):
     '''
         1 instead of i and j.
     '''
-    max len = 0
+    max_len = 0
     for i in range(len(a)):
         for j in range(len(b)):
             length = 0
