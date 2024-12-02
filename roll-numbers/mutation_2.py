@@ -1,6 +1,6 @@
 def assign_roll_numbers(students):
     '''
-       	Incorrect roll number assignment
+       Incorrect roll number assignment
     '''    
     if not students or any(student=="" for student in students):
         return "Invalid list"
