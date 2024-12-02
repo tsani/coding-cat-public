@@ -1,9 +1,9 @@
-def reverse_string(s):
+def reverse_string(string):
     '''
-By doing reversed_s += char, it just duplicated the original string instead of chaning the order.
+By doing reversed_s += char, it just duplicated the original string instead of changing the order.
 '''
 
     reversed_s = ""
-    for char in s:
+    for char in string:
         reversed_s += char
     return reversed_s
