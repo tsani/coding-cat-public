@@ -1,6 +1,6 @@
 def remove_vowels(strng: str) -> str:
     """
-    Bug: Implementation that does not an empty result string
+    Bug: Implementation that does not create an empty result string
     """
 # Does not create an empty result string
 

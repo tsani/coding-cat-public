@@ -1,6 +1,6 @@
 def remove_vowels(strng: str) -> str:
     """
-    Bug: Implementation that keeps vowels
+    Bug: Implementation that uses the wrong operators
     """
 
     result = ""
