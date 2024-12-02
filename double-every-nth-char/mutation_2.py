@@ -1,7 +1,7 @@
 def double_nth_char(text: str, n: int) -> str:
-"""
-Bug: Incorrect comparaison operator, != instead of == in the condition if i % n == 0, will invert the logic, and the function will double every character except those at positions that are multiples of n.
-"""
+    """
+        Incorrect comparaison operator, != instead of == in the condition if i % n == 0, will invert the logic, and the function will double every character except those at positions that are multiples of n.
+    """
     result = []
     for i, char in enumerate(text, start=1): 
         if i % n != 0:  
