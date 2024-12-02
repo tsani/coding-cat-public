@@ -1,7 +1,7 @@
 def count_vowels(string):
     '''
-    Mutation 1: mispelled vowels
+    Mutation 1:
     '''
-    viwels = 'aeiouyAEIOUY'
+    vowels = 'aeiouyAEIOUY'
 
     return sum(1 for char in string if char in vowels)
