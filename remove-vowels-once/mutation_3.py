@@ -1,6 +1,6 @@
 def remove_vowels_once(word: str) -> str:
     '''
-    missing return statement
+    Wrong function for the return statement
     '''
     vowels = "aeiouyAEIOUY"
     seen_vowels = set()
@@ -13,3 +13,4 @@ def remove_vowels_once(word: str) -> str:
                 result.append(char)
         else:
             result.append(char)
+    return set(result)
