@@ -2,7 +2,7 @@ def zig_zag(s):
     '''
     The loop should iterate len(s) times to cover all elements in the string.
     '''
-     s = list(s)  # Convert string to list for pop operations
+    s = list(s)  # Convert string to list for pop operations
     result = ""
     for i in range(len(s)-1):
         if i % 2 == 0:  # Even index
