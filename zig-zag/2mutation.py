@@ -10,4 +10,3 @@ def zig_zag(s):
         else:
             result += s.pop(0)  # Remove from the beginning instead of the end
     return result
-"""The zig-zag logic is inverted"""
