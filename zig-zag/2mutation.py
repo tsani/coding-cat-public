@@ -1,4 +1,7 @@
 def zig_zag(s):
+    '''
+    The zig-zag logic is inverted
+    '''
     s = list(s)
     result = ""
     for i in range(len(s)):

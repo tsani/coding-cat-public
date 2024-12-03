@@ -1,4 +1,7 @@
-def zig_zag(s): 
+def zig_zag(s):
+    '''
+    return is inside the loop, causing early exit after one iteration
+    '''
     s = list(s)  # Convert string to list for pop operations
     result = ""
     for i in range(len(s)):
@@ -7,4 +10,3 @@ def zig_zag(s):
         else:  # Odd index
             result += s.pop(-1)  # Remove from the end
         return result
-"""return is inside the loop, causing early exit after one iteration"""

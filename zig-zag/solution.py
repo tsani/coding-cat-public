@@ -1,4 +1,7 @@
 def zig_zag(s):
+    '''
+    this is the correct implementation 
+    '''
     s = list(s)  # Convert string to list for pop operations
     result = ""
     for i in range(len(s)):
@@ -7,6 +10,5 @@ def zig_zag(s):
         else:  # Odd index
             result += s.pop(-1)  # Remove from the end
     return result
-"""this is the correct implementation"""
 
 
