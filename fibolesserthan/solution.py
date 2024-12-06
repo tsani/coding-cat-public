@@ -1,5 +1,5 @@
 
-def fibo_upto(n):
+def fibo_lessthan(n):
 
     #Correct code
 
