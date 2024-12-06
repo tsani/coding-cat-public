@@ -1,4 +1,4 @@
-def fibo_upto(n):
+def fibo_lessthan(n):
     
     #Incorrect starting numbers
 
