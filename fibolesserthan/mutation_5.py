@@ -14,5 +14,5 @@ def fibo_upto(n):
     else:
         print("No")
         return False
-print(fibo_upto(26))
+
       
