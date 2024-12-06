@@ -1,4 +1,4 @@
-def fibo_upto(n):
+def fibo_lessthan(n):
 
     #Making a strictly smaller than n; fibo_upto(1) will return 0, instead of 0, 1, 1. 
     fibolist = []
