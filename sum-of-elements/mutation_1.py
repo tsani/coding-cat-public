@@ -7,5 +7,5 @@ def unique_sum(lst):
             duplicates.add(num)
         elif num not in duplicate:
             unique_elements.add(num)
-        return sum(sunique_elements) 
+        return sum(unique_elements) 
         """This won't work since the return function is in the loop"""
